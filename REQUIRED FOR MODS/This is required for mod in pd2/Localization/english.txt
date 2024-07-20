@@ -1,0 +1,6 @@
+{
+    "bm_msk_cloaker" : "Cloaker's Goggles",
+	"bm_msk_cloaker_desc" : "Those Cloakers showed up to the party late, but they came packing! Now that you've kicked their asses up and down the street. Time to scare them senseless with their own technology! Now all you need is some high pitched radio feedback and you'll be set!",
+
+    "menu_l_global_value_cloaker" : "This is a Cloaker Mask item!"
+}

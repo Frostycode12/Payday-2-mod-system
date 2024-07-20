@@ -1,0 +1,7 @@
+<dynamic_object>
+	<diesel materials="units/mods/masks/msk_cloaker/msk_cloaker" orientation_object="rp_krampus_mask" />
+	<graphics>
+		<object name="g_il" enabled="true" />
+		<object name="g_krampus" enabled="true" />
+	</graphics>
+</dynamic_object>

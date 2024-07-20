@@ -1,0 +1,25 @@
+<table>
+
+    <AssetUpdates id="142" name="asset_updates" folder_name="cloakers_goggles" provider="lastbullet"/>
+    
+    <Localization directory="Localization" default="english.txt">
+    </Localization>
+    <GlobalValue id="cloaker" color="Color(1, 0.5, 0)"/>
+
+    <Mask id="cloaker" unit="units/mods/masks/msk_cloaker/msk_cloaker" texture_bundle_folder="mods" global_value="cloaker" type="helmet"/>
+    <AddFiles directory="assets">
+    
+        <!-- Cloaker's Goggles        -->
+        <cooked_physics path="units/mods/masks/msk_cloaker/msk_cloaker"/>
+        <model path="units/mods/masks/msk_cloaker/msk_cloaker"/>
+        <object path="units/mods/masks/msk_cloaker/msk_cloaker"/>
+        <unit path="units/mods/masks/msk_cloaker/msk_cloaker"/>
+        <material_config path="units/mods/masks/msk_cloaker/msk_cloaker"/>
+        
+        <texture path="units/mods/masks/msk_cloaker/msk_cloaker_df"/>
+        <texture path="units/mods/masks/msk_cloaker/msk_cloaker_nm"/>
+        <texture path="units/mods/masks/msk_cloaker/msk_cloaker_il"/>
+        <texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/masks/cloaker"/>
+        
+    </AddFiles>
+</table>
